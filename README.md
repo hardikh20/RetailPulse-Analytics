@@ -106,7 +106,8 @@ Deployment using Power BI Service
 👤 Author
 
 Hardik Harchilkar
-📊 Aspiring Data Analyst
+
+Aspiring Data Analyst
 
 ---
 

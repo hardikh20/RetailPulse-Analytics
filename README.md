@@ -13,8 +13,11 @@ It demonstrates the complete data workflow — from raw data cleaning to advance
 Business Objectives
 
 ✔ Analyze monthly revenue trends
+
 ✔ Identify top-performing products
+
 ✔ Understand customer distribution
+
 ✔ Enable data-driven decision making
 
 ---
@@ -22,9 +25,13 @@ Business Objectives
 Tech Stack
 
 Tool        | Purpose          
+
 📊 Excel   | Data Cleaning
+
 🗄️ SQL     | Data Querying
+
 🐍 Python  | EDA & Analysis
+
 📈 Power BI| Dashboard & Visualization
 
 ---
@@ -66,10 +73,15 @@ D --> E[Power BI Dashboard]
 Project Structure
 
 RetailPulse-Analytics/
+
 │
+
 ├── data/
+
 │   ├── raw/
+
 │   └── processed/
+
 │
 ├── excel/        # Data cleaning files
 ├── sql/          # SQL queries
@@ -98,8 +110,11 @@ Key Learnings
 ✔ Data cleaning techniques in Excel
 
 ✔ Writing optimized SQL queries
+
 ✔ Performing EDA using Python
+
 ✔ Designing interactive dashboards
+
 ✔ Translating data into business insights
 
 ---

@@ -83,12 +83,19 @@ RetailPulse-Analytics/
 │   └── processed/
 
 │
+
 ├── excel/        # Data cleaning files
+
 ├── sql/          # SQL queries
+
 ├── python/       # EDA notebooks
+
 ├── images/       # Dashboard image
+
 ├── report/       # Final report
+
 │
+
 └── README.md
 
 ---

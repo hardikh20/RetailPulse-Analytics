@@ -142,6 +142,4 @@ Aspiring Data Analyst
 
 ---
 
-⭐ Support
 
-If you found this project useful, give it a ⭐ on GitHub!

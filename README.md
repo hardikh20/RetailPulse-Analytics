@@ -38,9 +38,13 @@ Dashboard Preview
 Key Insights
 
 🔹 Revenue increases significantly in Q4 (Oct–Dec)
+
 🔹 November shows peak sales performance
+
 🔹 Top 10 products contribute major revenue share
+
 🔹 Europe dominates customer base
+
 🔹 Seasonal trends strongly impact sales
 
 ---
@@ -48,9 +52,13 @@ Key Insights
 Project Workflow
 
 flowchart LR
+
 A[Raw Data] --> B[Excel Cleaning]
+
 B --> C[SQL Analysis]
+
 C --> D[Python EDA]
+
 D --> E[Power BI Dashboard]
 
 ---
@@ -88,6 +96,7 @@ Online Retail Dataset
 Key Learnings
 
 ✔ Data cleaning techniques in Excel
+
 ✔ Writing optimized SQL queries
 ✔ Performing EDA using Python
 ✔ Designing interactive dashboards
